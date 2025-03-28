@@ -1,2 +1,2 @@
 # makako-studios
-Updates de Proyecto GameMaker
+Website de administración del videojuego Butcher’s Echoes - Makako Studios
