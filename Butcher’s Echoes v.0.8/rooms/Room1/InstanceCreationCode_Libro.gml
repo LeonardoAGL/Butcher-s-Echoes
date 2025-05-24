@@ -1,0 +1,1 @@
+visual_sprite = spr_book;

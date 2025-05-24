@@ -1,0 +1,1 @@
+mensaje = "Cerrado con llave, inaccesible de momento...";
