@@ -1,0 +1,1 @@
+mensaje = ["Por dios...", "¿Quien fue capaz?"];

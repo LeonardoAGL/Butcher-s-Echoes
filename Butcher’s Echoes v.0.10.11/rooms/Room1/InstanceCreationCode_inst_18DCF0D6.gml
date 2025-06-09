@@ -1,0 +1,1 @@
+mensaje = ["Poco me interesa la verdad."];

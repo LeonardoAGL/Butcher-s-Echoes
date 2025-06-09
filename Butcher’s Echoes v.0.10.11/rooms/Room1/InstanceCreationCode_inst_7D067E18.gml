@@ -1,0 +1,1 @@
+mensaje = ["...que paso aqui... por dios... no pienso abrir ese armario..."];

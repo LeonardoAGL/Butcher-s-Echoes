@@ -1,0 +1,1 @@
+mensaje = ["...", "No puedo ver nada..."];

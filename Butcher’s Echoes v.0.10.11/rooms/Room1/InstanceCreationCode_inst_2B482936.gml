@@ -1,0 +1,1 @@
+mensaje = ["El paso está bloqueado con tablones clavados al azar, como si alguien quisiera sellarlo por completo. En la esquina también está cubierto, pero solo con un tablón.", "Parece más fácil de quitar... con algo..."];

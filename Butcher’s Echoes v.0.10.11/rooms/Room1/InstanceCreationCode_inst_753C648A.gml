@@ -1,0 +1,1 @@
+mensaje = ["Una cama, ¿alguien vivia aqui?..", "¿Quien podría descansar en un sitio como este?.."];

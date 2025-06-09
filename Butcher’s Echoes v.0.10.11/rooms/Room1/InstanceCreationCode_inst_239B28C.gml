@@ -1,0 +1,1 @@
+mensaje = ["Si... este tablon parece debil"];

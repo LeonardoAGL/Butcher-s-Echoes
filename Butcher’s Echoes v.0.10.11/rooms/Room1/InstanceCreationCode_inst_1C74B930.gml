@@ -1,0 +1,1 @@
+mensaje = ["Este lugar era el comedor... Quienes podrian haber estado en este sitio...","O quién..."];

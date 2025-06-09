@@ -1,0 +1,1 @@
+mensaje = ["Dios... quien le ha hecho esto... no puede ser humano... ¿fue aquella cosa del pasillo?.."];

@@ -1,0 +1,1 @@
+mensaje = ["No me pondré a descansar en un sitio como este..."];

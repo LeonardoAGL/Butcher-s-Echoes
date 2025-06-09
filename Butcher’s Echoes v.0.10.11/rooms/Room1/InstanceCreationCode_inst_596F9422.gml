@@ -1,0 +1,1 @@
+mensaje = ["Hay curiosamente un agujero...", "Dudo que realmente ese niño pudiera hacer un agujero o algo similar, sera una especie de Easter Egg.", "Dicha suerte para aquellos afortunados que mantienen la fé."];

@@ -1,0 +1,2 @@
+mensaje = "Mientras este en silencio, no podra encontrarme pensaba. Desde el baño se escuchaban otras risas del pasillo, me quede llorando dentro del armario maldita sea, me escucho. Abrió la puerta... Se juntaron todos los llantos y gritos en esa esquina... Ya era muy tarde, solo pude ver una mancha roja mientras me usaba por ultima vez, no siento las piernas...";
+sprite_nota = spr_note;

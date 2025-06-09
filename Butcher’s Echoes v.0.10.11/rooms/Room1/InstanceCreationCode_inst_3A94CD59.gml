@@ -1,0 +1,2 @@
+mensaje = "28 apuñaladas, ese era la cantidad antes de siquiera poder escapar por la ventana. No me hubiese importado haberme roto los huesos si asi podia morir pensando en mi mujer, y no en esos ojos ensangrentados por mis entrañas";
+sprite_nota = spr_note;

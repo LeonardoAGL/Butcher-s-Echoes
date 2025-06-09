@@ -1,0 +1,1 @@
+mensaje = ["¿Que paso aqui?.. Tengo que irme de este lugar..."];

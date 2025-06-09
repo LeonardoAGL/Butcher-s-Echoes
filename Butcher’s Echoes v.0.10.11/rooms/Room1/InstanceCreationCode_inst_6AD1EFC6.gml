@@ -1,0 +1,1 @@
+mensaje = ["'Habitación de la sirvienta'","Cerrado con llave, inaccesible de momento..."];

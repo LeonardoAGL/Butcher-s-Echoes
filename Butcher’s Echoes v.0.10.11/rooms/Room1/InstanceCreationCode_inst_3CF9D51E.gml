@@ -1,0 +1,1 @@
+mensaje = ["( Necesitas la llave para desbloquear la caja fuerte... )", "Que mal..."];
